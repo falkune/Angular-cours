@@ -11,3 +11,10 @@
     - Les origines : AngularJS (2010-2016)
     
         AngularJS, lancé par Google en 2010, est un framework JavaScript open source pour le développement d'applications web dynamiques. Il a rapidement gagné en popularité grâce à sa liaison de données bidirectionnelle et son modèle MVC. Cependant, avec l'évolution des technologies web, AngularJS a montré ses limites en termes de complexité notemment grace à son architecture monolithique, rendant difficile le développement d'applications à grande échelle.
+
+    - Une réécriture complète : Angular 2+ (2016-présent)
+
+        En réponse à ces limitations, Google a entrepris une réécriture complète du framework, aboutissant à la publication d'Angular 2 en 2016. Cette nouvelle version représentait une rupture significative avec AngularJS, en adoptant une architecture modulaire basée sur les composants, TypeScript comme langage de développement principal et une approche plus moderne et réactive.
+        
+    ![AngularJS & Angular](./images/AngularJs-Angular.png)
+
